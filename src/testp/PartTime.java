@@ -10,7 +10,7 @@ package testp;
  */
 public class PartTime {
     private int sid;
-
+private String name;
     /**
      * @return the sid
      */
@@ -26,3 +26,4 @@ public class PartTime {
     }
     
 }
+
