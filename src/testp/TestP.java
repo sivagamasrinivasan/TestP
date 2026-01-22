@@ -17,7 +17,9 @@ public class TestP {
         // TODO code application logic here
         System.out.println("push");
         //pull operation
+        System.out.println("fetch+merge");
     }
     
 }
+
 
