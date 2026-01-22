@@ -18,9 +18,11 @@ public class TestP {
         System.out.println("push");
         //pull operation
         System.out.println("fetch+merge");
+        //fetch + merge operation
     }
     
 }
+
 
 
 
